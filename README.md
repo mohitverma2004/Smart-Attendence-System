@@ -1,7 +1,5 @@
 # AI & IoT-Enabled Smart Attendance System
 
-![Smart Attendance System](https://via.placeholder.com/800x400?text=Smart+Attendance+System)
-
 ## Overview
 
 The AI & IoT-Enabled Smart Attendance System is a cutting-edge solution that revolutionizes traditional attendance tracking by leveraging artificial intelligence and Internet of Things technologies. It provides a contactless, automated approach to attendance management using facial recognition, secure cloud storage, and real-time monitoring.
@@ -40,5 +38,5 @@ The AI & IoT-Enabled Smart Attendance System is a cutting-edge solution that rev
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/Piyushgo18/smart-attendance-system.git
-cd smart-attendance-system
+git clone https://github.com/AaryanPartap/Smart-Attendance-System.git
+cd Smart-Attendance-System
